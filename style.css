@@ -139,27 +139,28 @@ nav {
   background-size: cover;
   background-position: center;
   opacity: 0.9;
-  position: relative;
   z-index: 1;
   border-radius: 40px;
   box-shadow: 0 10px 30px rgba(4, 77, 13, 0.5);
   border: 1px solid #2e0318;
-  display: flex;
+  
   align-items: center;
   color: var(--white);
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .card1 h1 {
-  font-size: 3.5rem;
+  font-size: 4rem;
   margin-bottom: 1.5rem;
   font-family: 'Playfair Display', serif;
+  text-align: center;
 }
 
 .card1 p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
   opacity: 0.9;
+  text-align: center;
 }
 
 
